@@ -25,7 +25,7 @@ const Navbar = () => {
         
         {/* Logo */}
         <Link to="/">
-          <img src="/public/img/name.jpg" alt="Logo" className="h-10 w-auto object-contain" />
+          <img src="/img/name.jpg" alt="Logo" className="h-10 w-auto object-contain" />
         </Link>
 
         {/* Desktop Menu */}
@@ -63,7 +63,7 @@ const Navbar = () => {
 
             {/* Side Drawer */}
             <motion.div
-              className="fixed top-17 left-0 w-3/4 max-w-xs h-[90%] bg-gradient-to-b from-white via-blue-50 to-white shadow-2xl z-50 p-6 flex flex-col"
+              className="fixed h-screen left-0 w-3/4 max-w-xs h-[90%] bg-gradient-to-b from-white via-blue-50 to-white shadow-2xl z-50 p-6 flex flex-col"
               initial="hidden"
               animate="visible"
               exit="exit"
@@ -93,7 +93,7 @@ const Navbar = () => {
               </ul>
 
               {/* Optional: Action Button */}
-              <div className="mt-auto pt-6">
+              <div className="mt-auto mb-16">
                 <Link
                   to="/contact"
                   onClick={() => setMenuOpen(false)}

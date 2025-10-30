@@ -103,7 +103,7 @@ const Services = () => {
             Get a free consultation and discover how we can bring your ideas to life.
           </p>
           <a
-            href="mailto:contact@inzovia.com"
+            href="mailto:abdulaziz86723@gmail.com"
             className="bg-white text-gray-900 font-semibold px-6 py-2 rounded-full hover:bg-gray-200 transition-all"
           >
             Get a Free Consultation

@@ -5,7 +5,7 @@ const projects = [
   {
     title: "NLRC – National Laboratory & Research Center",
     type: "Full-Stack Development",
-    img: "/public/img/logs.jpg", // 🖼️ Add your image path here
+    img: "/img/logs.jpg", // 🖼️ Add your image path here
     points: [
       "Corporate website + admin CMS",
       "Integrated CRM for logistics & customer management",
@@ -16,7 +16,7 @@ const projects = [
   {
     title: "The Q Quality – Product Certification",
     type: "Full-Stack Development",
-    img: "/public/img/logs.jpg",
+    img: "/img/logs.jpg",
     points: [
       "Website + full-featured CRM",
       "Customer account & request handling",
@@ -27,7 +27,7 @@ const projects = [
   {
     title: "Percentum – Finance & Loan",
     type: "Full-Stack Development",
-    img: "/public/img/logs.jpg",
+    img: "/img/logs.jpg",
     points: [
       "Finance & loan application system",
       "Norway BankID & VerID integration",
@@ -38,7 +38,7 @@ const projects = [
   {
     title: "RentoAny – P2P Rental Marketplace",
     type: "Frontend Development",
-    img: "/public/img/logs.jpg",
+    img: "/img/logs.jpg",
     points: [
       "E-commerce web app",
       "Responsive product listing & cart",
@@ -49,7 +49,7 @@ const projects = [
   {
     title: "Ways Cars – Chauffeur Booking",
     type: "Frontend Development",
-    img: "/public/img/logs.jpg",
+    img: "/img/logs.jpg",
     points: [
       "Vehicle booking platform",
       "Google Maps integration",
@@ -60,7 +60,7 @@ const projects = [
   {
     title: "Nos Meilleurs – Shopify Beauty Store",
     type: "Full-Stack Development",
-    img: "/public/img/logs.jpg",
+    img: "/img/logs.jpg",
     points: [
       "Custom Shopify theme",
       "Shopify app for business logic",
@@ -71,14 +71,14 @@ const projects = [
   {
     title: "Humphry The Butler – Luxury Subscriptions",
     type: "Full-Stack Development",
-    img: "/public/img/logs.jpg",
+    img: "/img/logs.jpg",
     points: ["Shopify custom theme", "Subscription-based delivery"],
     tech: ["Shopify", "Liquid", "JavaScript"],
   },
   {
     title: "Kick Ash Basket – Grilling Store",
     type: "Full-Stack Development",
-    img: "/public/img/logs.jpg",
+    img: "/img/logs.jpg",
     points: [
       "Shopify grilling store",
       "Discount & tracking app integration",
