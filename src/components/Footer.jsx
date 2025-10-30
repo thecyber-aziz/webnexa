@@ -124,7 +124,7 @@ const Footer = () => {
             <li className="flex items-center gap-3">
               <FaEnvelope className="text-black" />
               <a
-                href="mailto:contact@inzovia.com"
+                href="mailto:abdulaziz86723@gmail.com.com"
                 className="hover:text-black transition-colors duration-200"
               >
                 abdulaziz86723@gmail.com
